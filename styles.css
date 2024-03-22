@@ -12,8 +12,12 @@ body{
   padding:5px;
   background-color: #FAF0E6;
   margin-top: 30px;
-  margin-left: 450px;
-  margin-right: 450px;
+/*   margin-left: 450px;
+  margin-right: 450px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   border:2px black solid;
   border-radius: 10px;
 }
